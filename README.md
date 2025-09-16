@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Angular, JAVA, SQL**
 
-- 📫 How to reach me **aniket72094087100@gmail.com**
+- 📫 How to reach me **aniketanand.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
